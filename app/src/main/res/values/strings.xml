@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GoogleMapFakeCarMotion</string>
+<!--    <string name="google_api_key_client">AIzaSyASmWrNrHEnxgcES1_WTiz1vLfiB1n6wOM</string>-->
+    <string name="google_api_key_client">AIzaSyA_9WU2PBRYeCazqM-1vVbZ2MlmDiiy354</string>
+</resources>
